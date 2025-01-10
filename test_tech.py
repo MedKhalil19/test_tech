@@ -1011,7 +1011,6 @@ five2two7hstbbqzrninegbtwo2
 eightfblzpmhs4
 fbbdeightzzsdffh8jbjzxkclj
 3nine6five1
-Besides knowing the table names, you need to know how each table is structured. The way this works is also dependent upon which database technology you use. Here's how you do it with SQLite.
 """
 
 total_calibration = calculate_total_calibration(document)
